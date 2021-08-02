@@ -1,6 +1,6 @@
 body {
-  font-family: initial;
-  background-image: initial;
+  font-family: Lora, sans-serif;
+  background-image: url("https://wallpapercave.com/wp/wp5352389.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -11,14 +11,15 @@ body {
   max-width: 800px;
   margin: 3em auto;
   background-color: skyblue;
-  opacity: 1;
+  opacity: 0.9;
   padding: 1em;
-  box-shadow: initial;
-  border-radius: 0px;
+  box-shadow: rgba(0, 0, 0, 0.6) 0px 19px 38px, rgba(0, 0, 0, 0.6) 0px 15px 12px;
+  border-radius: 12px;
 }
 
 img {
   width: 100%;
   height: auto;
   border-radius: inherit;
+  opacity: 1;
 }
